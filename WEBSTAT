@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="id">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Website Statis Saya</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        text-align: center;
+        padding: 50px;
+      }
+      h1 {
+        color: #2c3e50;
+      }
+      .foto-container {
+        margin: 20px auto;
+        padding: 10px;
+        border: 2px solid #2c3e50;
+        border-radius: 10px;
+        max-width: 300px;
+      }
+      img {
+        width: 100%;
+        border-radius: 10px;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>SELAMAT</h1>
+    <p>ANDA BARUSAN MENDAPATKAN FOTO 4 ANOMALI</p>
+
+    <!-- Tempat untuk menaruh foto -->
+    <div class="foto-container">
+      <img
+        src="WhatsApp Image 2025-02-16 at 00.53.37_98656087.jpg"
+        alt="Foto Saya"
+      />
+    </div>
+  </body>
+</html>
